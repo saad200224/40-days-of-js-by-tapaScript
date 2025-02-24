@@ -11,16 +11,16 @@
 
 // console.log(name, age, isStudent, favProgrammingLanguage);
 
-let person = {
-    name : 'saad',
-    age : 31,
-    isStudent : true
-}
+// let person = {
+//     name : 'saad',
+//     age : 31,
+//     isStudent : true
+// }
 
-let newPerson = {
-    name : 'saad',
-    age : 31,
-    isStudent : true
-};
+// let newPerson = {
+//     name : 'saad',
+//     age : 31,
+//     isStudent : true
+// };
 
-console.log(person === newPerson)
+// console.log(person === newPerson)

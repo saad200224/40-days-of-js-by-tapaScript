@@ -78,3 +78,12 @@
 // console.log(reversedNumber);
 
 // 6. Write your understanding on the differences between for, while, and do-while loop. Create their flow charts.
+
+/**
+ * for loop: best for fixed number of iteration (we know how many iteration is required).
+ * while loop: best for unknown number of iteration.
+ * do while loop: at least first iteration will be executed. after that it will check the condition.
+ * 
+ * flow chart: https://prnt.sc/sR7-8eZ9MXIJ
+ * 
+ */
